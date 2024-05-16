@@ -33,6 +33,7 @@ Data from the Alzheimer’s Disease Neuroimaging Initiative (ADNI) included 314 
 
 ## Discussion
 The study shows stronger coupling between tau and atrophy in Aβ+ MCI individuals. This coupling was significant in fewer than 25% of ROIs but mediated important associations between Aβ burden and cognitive dysfunction, especially in specific frontal and paracentral regions.
+
  <img src="fig3.png" alt="Mediation Analysis" style="width: 50%; height: auto;">
 ## Summary
 Significant coupling between tau and atrophy was observed in a minority of ROIs, with crucial mediation in the right rostral middle frontal and paracentral regions, underscoring their role in cognitive impairment in AD.
