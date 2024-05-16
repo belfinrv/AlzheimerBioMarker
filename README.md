@@ -21,7 +21,7 @@ This study evaluates the spatial coupling between tau and neurodegeneration (atr
 Data from the Alzheimer’s Disease Neuroimaging Initiative (ADNI) included 314 MCI and 95 CN participants. Florbetapir and flortaucipir PET, along with structural MRI, were analyzed using FreeSurfer v7.1.1. Individual covariance networks were reconstructed and modeled as multilayer networks to study interactions between tau and atrophy.
 # Example Image
 
-<img src="fig1.jpg" alt="Data Modelling flow" style="width: 50%; height: auto;">
+<img src="fig1.png" alt="Data Modelling flow" style="width: 50%; height: auto;">
 
 ## Results
 - **Demographics:** No significant differences in sex or education between Aβ+ and Aβ- groups; differences in age and CDR-SB scores were noted.
@@ -29,11 +29,11 @@ Data from the Alzheimer’s Disease Neuroimaging Initiative (ADNI) included 314 
 - **Coupling:** Greater coupling in Aβ+ group in specific brain regions, with right hemisphere dominance.
 - **Mediation:** Coupling in right rostral middle frontal and paracentral gyri mediated the association between Aβ burden and cognition.
 
- <img src="fig2.jpg" alt="Tau Atrophy Load" style="width: 50%; height: auto;">
+ <img src="fig2.png" alt="Tau Atrophy Load" style="width: 50%; height: auto;">
 
 ## Discussion
 The study shows stronger coupling between tau and atrophy in Aβ+ MCI individuals. This coupling was significant in fewer than 25% of ROIs but mediated important associations between Aβ burden and cognitive dysfunction, especially in specific frontal and paracentral regions.
- <img src="fig3.jpg" alt="Mediation Analysis" style="width: 50%; height: auto;">
+ <img src="fig3.png" alt="Mediation Analysis" style="width: 50%; height: auto;">
 ## Summary
 Significant coupling between tau and atrophy was observed in a minority of ROIs, with crucial mediation in the right rostral middle frontal and paracentral regions, underscoring their role in cognitive impairment in AD.
 
